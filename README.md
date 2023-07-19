@@ -1,2 +1,2 @@
-# parallel-programming
-ITMO CT Methods of Parallel Programming course tasks
+# Multiprocessor-programming-course
+ITMO CT Multiprocessor Programming course tasks
